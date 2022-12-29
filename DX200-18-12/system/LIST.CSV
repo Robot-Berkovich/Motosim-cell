@@ -1,0 +1,17 @@
+/ANGLE LIMIT
+//VERSION   : 1.07
+//DATE      : 2016/02/09 19:43:00
+//ENTRY NUM : 12
+///EQUIP DATA
+6025, MS165_STANDARD.PSC, NULL,               NULL,               NULL,                 #MS00165A0.h_MH00180A0.h
+6026, MS210_STANDARD.PSC, NULL,               NULL,               NULL,                 #MS00210A0.h_MH00225A0.h
+6029, MS165_STANDARD.PSC, NULL,               NULL,               NULL,                 #MS00165X0.h_MH00180X0.h
+6030, MS210_STANDARD.PSC, NULL,               NULL,               NULL,                 #MS00210X0.h_MH00225X0.h
+6048, MS80W_STANDARD.PSC, NULL,               NULL,               NULL,                 #MS0080WJ0.h
+6052, MS100_STANDARD.PSC, NULL,               NULL,               NULL,                 #MS00100A0.h
+6061, ES165RD_STANDARD.PSC, NULL,             NULL,               NULL,                 #ES165RDJ0.h
+6064, ES200RD_STANDARD.PSC, NULL,             NULL,               NULL,                 #ES200RDJ0.h
+6082, MH80_STANDARD.PSC, NULL,                NULL,               NULL,                 #MH00080J0.h
+6105, MH80_STANDARD.PSC, NULL,                NULL,               NULL,                 #MH00080K0.h
+6094, VS100_STANDARD.PSC, NULL,               NULL,               NULL,			#VS00100Z0.h
+6153, VS100_STANDARD.PSC, NULL,               NULL,               NULL,			#VS00100A0.h

@@ -1,0 +1,838 @@
+3100 0 1 0           
+22 HOOPS-ACIS Part Viewer 14 ACIS 31.0.1 NT 24 Thu Dec 29 11:10:09 2022 
+1 9.9999999999999995e-07 1e-10 
+T @77 3SADZBVQZEA7_KSJH5XPPDX7B6NU6574DD4RQ87FQA3VFZQ7FCC4MC5E3CJ4KJQWAARUE8Q2KAVMJ 
+body $1 -1 -1 $-1 1 $2 $-1 $-1 T -222.5 0 -222.5 222.5 410 222.5 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $3 $-1 $0 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+lump $-1 -1 -1 $-1 $-1 $4 $0 T -222.5 0 -222.5 222.5 410 222.5 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $5 $1 $0 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:757 #
+shell $-1 -1 -1 $-1 $-1 $-1 $6 $-1 $2 T -222.5 0 -222.5 222.5 410 222.5 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $7 $3 $0 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+face $8 -1 -1 $-1 $9 $10 $4 $-1 $11 reversed single T -200.5 2 -200.5 200.5 2 200.5 F #
+rgb_color-st-attrib $-1 -1 $-1 $5 $0 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0.7921568751335144 0.81960785388946533 0.93333333730697632 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $12 $-1 $6 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+face $13 -1 -1 $-1 $14 $15 $4 $-1 $16 forward single T -202.5 0 -202.5 202.5 0 202.5 F #
+loop $17 -1 -1 $-1 $-1 $18 $6 T -200.5 2 -200.5 200.5 2 200.5 unknown #
+plane-surface $-1 -1 -1 $-1 0 2 0 0 -1 0 0 0 -1 forward_v I I I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $19 $8 $6 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:315 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $20 $-1 $9 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+face $21 -1 -1 $-1 $22 $23 $4 $-1 $24 forward single T -202.5 408 -222.5 202.5 410 -222.5 F #
+loop $25 -1 -1 $-1 $-1 $26 $9 T -202.5 0 -202.5 202.5 0 202.5 unknown #
+plane-surface $-1 -1 -1 $-1 0 0 0 0 -1 0 0 0 -1 forward_v I I I I #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $27 $-1 $10 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+coedge $-1 -1 -1 $-1 $28 $29 $30 $31 reversed $10 $-1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $32 $12 $6 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $33 $13 $9 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:445 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $34 $-1 $14 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+face $35 -1 -1 $-1 $36 $37 $4 $-1 $38 forward single T 222.5 408 -202.5 222.5 410 202.5 F #
+loop $39 -1 -1 $-1 $-1 $40 $14 T -202.5 408 -222.5 202.5 410 -222.5 unknown #
+plane-surface $-1 -1 -1 $-1 0 409 -222.5 0 0 -1 -1 0 0 forward_v I I I I #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $41 $-1 $15 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+coedge $-1 -1 -1 $-1 $42 $43 $44 $45 forward $15 $-1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $46 $17 $10 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:313 #
+coedge $-1 -1 -1 $-1 $47 $18 $48 $49 reversed $10 $-1 #
+coedge $-1 -1 -1 $-1 $18 $47 $50 $51 reversed $10 $-1 #
+coedge $-1 -1 -1 $-1 $52 $53 $18 $31 forward $54 $-1 #
+edge $55 -1 -1 $-1 $56 0 $57 1 $18 $58 forward @7 unknown T 200.5 2 -200.5 200.5 2 200.5 #
+rgb_color-st-attrib $-1 -1 $-1 $19 $6 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0.7921568751335144 0.81960785388946533 0.93333333730697632 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $59 $20 $9 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $60 $21 $14 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:107 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $61 $-1 $22 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+face $62 -1 -1 $-1 $63 $64 $4 $-1 $65 forward single T -202.5 408 222.5 202.5 410 222.5 F #
+loop $66 -1 -1 $-1 $-1 $67 $22 T 222.5 408 -202.5 222.5 410 202.5 unknown #
+plane-surface $-1 -1 -1 $-1 222.5 409 0 1 0 -0 -0 0 -1 forward_v I I I I #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $68 $-1 $23 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+coedge $-1 -1 -1 $-1 $69 $70 $71 $72 forward $23 $-1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $73 $25 $15 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:443 #
+coedge $-1 -1 -1 $-1 $74 $26 $75 $76 forward $15 $-1 #
+coedge $-1 -1 -1 $-1 $26 $74 $77 $78 forward $15 $-1 #
+coedge $-1 -1 -1 $-1 $79 $80 $26 $45 reversed $81 $-1 #
+edge $82 -1 -1 $-1 $83 0 $84 1 $26 $85 forward @7 unknown T -202.5 0 -202.5 -202.5 0 202.5 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $27 $10 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+coedge $-1 -1 -1 $-1 $29 $28 $86 $87 reversed $10 $-1 #
+coedge $-1 -1 -1 $-1 $88 $89 $28 $49 forward $90 $-1 #
+edge $91 -1 -1 $-1 $92 0 $56 1 $28 $93 forward @7 unknown T -200.5 2 -200.5 200.5 2 -200.5 #
+coedge $-1 -1 -1 $-1 $94 $95 $29 $51 forward $96 $-1 #
+edge $97 -1 -1 $-1 $57 0 $98 1 $29 $99 forward @7 unknown T -200.5 2 200.5 200.5 2 200.5 #
+coedge $-1 -1 -1 $-1 $100 $30 $95 $101 forward $54 $-1 #
+coedge $-1 -1 -1 $-1 $30 $100 $88 $102 reversed $54 $-1 #
+loop $103 -1 -1 $-1 $-1 $30 $104 T 200.5 2 -200.5 200.5 410 200.5 unknown #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $105 $-1 $31 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+vertex $-1 -1 -1 $-1 $49 $106 #
+vertex $-1 -1 -1 $-1 $31 $107 #
+straight-curve $-1 -1 -1 $-1 200.5 2 -200.5 0 0 401 I I #
+rgb_color-st-attrib $-1 -1 $-1 $33 $9 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0.7921568751335144 0.81960785388946533 0.93333333730697632 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $108 $34 $14 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $109 $35 $22 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:133 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $110 $-1 $36 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+face $111 -1 -1 $-1 $112 $113 $4 $-1 $114 reversed single T 202.5 408 -202.5 222.5 408 202.5 F #
+loop $115 -1 -1 $-1 $-1 $116 $36 T -202.5 408 222.5 202.5 410 222.5 unknown #
+plane-surface $-1 -1 -1 $-1 0 409 222.5 0 0 1 1 0 0 forward_v I I I I #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $117 $-1 $37 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+coedge $-1 -1 -1 $-1 $118 $119 $120 $121 forward $37 $-1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $122 $39 $23 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:105 #
+coedge $-1 -1 -1 $-1 $123 $40 $124 $125 forward $23 $-1 #
+coedge $-1 -1 -1 $-1 $40 $123 $126 $127 forward $23 $-1 #
+coedge $-1 -1 -1 $-1 $128 $129 $40 $72 reversed $130 $-1 #
+edge $131 -1 -1 $-1 $132 0 $133 1 $40 $134 forward @7 unknown T -202.5 410 -222.5 202.5 410 -222.5 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $41 $15 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+coedge $-1 -1 -1 $-1 $43 $42 $135 $136 forward $15 $-1 #
+coedge $-1 -1 -1 $-1 $137 $138 $42 $76 reversed $139 $-1 #
+edge $140 -1 -1 $-1 $84 0 $141 1 $42 $142 forward @7 unknown T -202.5 0 -202.5 202.5 0 -202.5 #
+coedge $-1 -1 -1 $-1 $143 $144 $43 $78 reversed $145 $-1 #
+edge $146 -1 -1 $-1 $147 0 $83 1 $43 $148 forward @7 unknown T -202.5 0 202.5 202.5 0 202.5 #
+coedge $-1 -1 -1 $-1 $149 $44 $144 $150 forward $81 $-1 #
+coedge $-1 -1 -1 $-1 $44 $149 $137 $151 forward $81 $-1 #
+loop $152 -1 -1 $-1 $-1 $79 $153 T -202.5 0 -202.5 -202.5 408 202.5 unknown #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $154 $-1 $45 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+vertex $-1 -1 -1 $-1 $78 $155 #
+vertex $-1 -1 -1 $-1 $45 $156 #
+straight-curve $-1 -1 -1 $-1 -202.5 0 202.5 0 0 -405 I I #
+coedge $-1 -1 -1 $-1 $157 $158 $47 $87 forward $159 $-1 #
+edge $160 -1 -1 $-1 $98 0 $92 1 $47 $161 forward @7 unknown T -200.5 2 -200.5 -200.5 2 200.5 #
+coedge $-1 -1 -1 $-1 $162 $48 $53 $102 forward $90 $-1 #
+coedge $-1 -1 -1 $-1 $48 $162 $157 $163 forward $90 $-1 #
+loop $164 -1 -1 $-1 $-1 $48 $165 T -200.5 2 -200.5 200.5 410 -200.5 unknown #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $166 $-1 $49 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+vertex $-1 -1 -1 $-1 $87 $167 #
+straight-curve $-1 -1 -1 $-1 -200.5 2 -200.5 401 0 0 I I #
+coedge $-1 -1 -1 $-1 $168 $50 $158 $169 forward $96 $-1 #
+coedge $-1 -1 -1 $-1 $50 $168 $52 $101 reversed $96 $-1 #
+loop $170 -1 -1 $-1 $-1 $50 $171 T -200.5 2 200.5 200.5 410 200.5 unknown #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $172 $-1 $51 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+vertex $-1 -1 -1 $-1 $51 $173 #
+straight-curve $-1 -1 -1 $-1 200.5 2 200.5 -401 0 0 I I #
+coedge $-1 -1 -1 $-1 $53 $52 $174 $175 reversed $54 $-1 #
+edge $176 -1 -1 $-1 $57 0 $177 1 $95 $178 forward @7 unknown T 200.5 2 200.5 200.5 410 200.5 #
+edge $179 -1 -1 $-1 $56 0 $180 1 $53 $181 forward @7 unknown T 200.5 2 -200.5 200.5 410 -200.5 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $182 $-1 $54 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+face $183 -1 -1 $-1 $165 $54 $4 $-1 $184 reversed single T 200.5 2 -200.5 200.5 410 200.5 F #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $185 $55 $31 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_SHOW 0 #
+point $-1 -1 -1 $-1 200.5 2 -200.5 #
+point $-1 -1 -1 $-1 200.5 2 200.5 #
+rgb_color-st-attrib $-1 -1 $-1 $60 $14 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0.7921568751335144 0.81960785388946533 0.93333333730697632 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $186 $61 $22 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $187 $62 $36 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:159 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $188 $-1 $63 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+face $189 -1 -1 $-1 $190 $191 $4 $-1 $192 reversed single T -202.5 408 -222.5 202.5 408 -202.5 F #
+loop $193 -1 -1 $-1 $-1 $194 $63 T 202.5 408 -202.5 222.5 408 202.5 unknown #
+plane-surface $-1 -1 -1 $-1 212.5 408 0 0 1 0 0 0 1 forward_v I I I I #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $195 $-1 $64 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+coedge $-1 -1 -1 $-1 $196 $197 $198 $199 forward $64 $-1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $200 $66 $37 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:131 #
+coedge $-1 -1 -1 $-1 $201 $67 $202 $203 forward $37 $-1 #
+coedge $-1 -1 -1 $-1 $67 $201 $204 $205 forward $37 $-1 #
+coedge $-1 -1 -1 $-1 $206 $207 $67 $121 reversed $130 $-1 #
+edge $208 -1 -1 $-1 $209 0 $210 1 $67 $211 forward @7 unknown T 222.5 410 -202.5 222.5 410 202.5 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $68 $23 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+coedge $-1 -1 -1 $-1 $70 $69 $212 $213 forward $23 $-1 #
+coedge $-1 -1 -1 $-1 $214 $215 $69 $125 reversed $216 $-1 #
+edge $217 -1 -1 $-1 $133 0 $218 1 $69 $219 forward @7 unknown T 202.5 408 -222.5 202.5 410 -222.5 #
+coedge $-1 -1 -1 $-1 $220 $221 $70 $127 reversed $222 $-1 #
+edge $223 -1 -1 $-1 $224 0 $132 1 $70 $225 forward @7 unknown T -202.5 408 -222.5 -202.5 410 -222.5 #
+coedge $-1 -1 -1 $-1 $226 $71 $221 $227 forward $130 $-1 #
+coedge $-1 -1 -1 $-1 $71 $206 $214 $228 reversed $130 $-1 #
+loop $229 -1 -1 $-1 $230 $231 $232 T -222.5 410 -222.5 222.5 410 222.5 periphery $233 T #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $234 $-1 $72 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+vertex $-1 -1 -1 $-1 $127 $235 #
+vertex $-1 -1 -1 $-1 $72 $236 #
+straight-curve $-1 -1 -1 $-1 -202.5 410 -222.5 405 0 0 I I #
+coedge $-1 -1 -1 $-1 $237 $238 $74 $136 reversed $239 $-1 #
+edge $240 -1 -1 $-1 $141 0 $147 1 $74 $241 forward @7 unknown T 202.5 0 -202.5 202.5 0 202.5 #
+coedge $-1 -1 -1 $-1 $242 $75 $80 $151 reversed $139 $-1 #
+coedge $-1 -1 -1 $-1 $75 $242 $237 $243 reversed $139 $-1 #
+loop $244 -1 -1 $-1 $-1 $137 $245 T -202.5 0 -202.5 202.5 408 -202.5 unknown #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $246 $-1 $76 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+vertex $-1 -1 -1 $-1 $76 $247 #
+straight-curve $-1 -1 -1 $-1 -202.5 0 -202.5 405 0 0 I I #
+coedge $-1 -1 -1 $-1 $248 $77 $238 $249 forward $145 $-1 #
+coedge $-1 -1 -1 $-1 $77 $248 $79 $150 reversed $145 $-1 #
+loop $250 -1 -1 $-1 $-1 $143 $251 T -202.5 0 202.5 202.5 408 202.5 unknown #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $252 $-1 $78 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+vertex $-1 -1 -1 $-1 $136 $253 #
+straight-curve $-1 -1 -1 $-1 202.5 0 202.5 -405 0 0 I I #
+coedge $-1 -1 -1 $-1 $80 $79 $254 $255 reversed $81 $-1 #
+edge $256 -1 -1 $-1 $83 0 $257 1 $144 $258 forward @7 unknown T -202.5 0 202.5 -202.5 408 202.5 #
+edge $259 -1 -1 $-1 $260 0 $84 1 $137 $261 forward @7 unknown T -202.5 0 -202.5 -202.5 408 -202.5 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $262 $-1 $81 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+face $263 -1 -1 $-1 $264 $81 $4 $-1 $265 reversed single T -202.5 0 -202.5 -202.5 408 202.5 F #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $266 $82 $45 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_SHOW 0 #
+point $-1 -1 -1 $-1 -202.5 0 202.5 #
+point $-1 -1 -1 $-1 -202.5 0 -202.5 #
+coedge $-1 -1 -1 $-1 $267 $86 $89 $163 reversed $159 $-1 #
+coedge $-1 -1 -1 $-1 $86 $267 $94 $169 reversed $159 $-1 #
+loop $268 -1 -1 $-1 $-1 $86 $190 T -200.5 2 -200.5 -200.5 410 200.5 unknown #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $269 $-1 $87 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+straight-curve $-1 -1 -1 $-1 -200.5 2 200.5 0 0 -401 I I #
+coedge $-1 -1 -1 $-1 $89 $88 $270 $271 reversed $90 $-1 #
+edge $272 -1 -1 $-1 $273 0 $92 1 $157 $274 forward @7 unknown T -200.5 2 -200.5 -200.5 410 -200.5 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $275 $-1 $90 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+face $276 -1 -1 $-1 $245 $90 $4 $-1 $277 reversed single T -200.5 2 -200.5 200.5 410 -200.5 F #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $278 $91 $49 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_SHOW 0 #
+point $-1 -1 -1 $-1 -200.5 2 -200.5 #
+coedge $-1 -1 -1 $-1 $95 $94 $279 $280 reversed $96 $-1 #
+edge $281 -1 -1 $-1 $98 0 $282 1 $158 $283 forward @7 unknown T -200.5 2 200.5 -200.5 410 200.5 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $284 $-1 $96 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+face $285 -1 -1 $-1 $104 $96 $4 $-1 $286 reversed single T -200.5 2 200.5 200.5 410 200.5 F #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $287 $97 $51 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_SHOW 0 #
+point $-1 -1 -1 $-1 -200.5 2 200.5 #
+coedge $-1 -1 -1 $-1 $279 $270 $100 $175 forward $230 $-1 #
+edge $288 -1 -1 $-1 $180 0 $177 1 $100 $289 forward @7 unknown T 200.5 410 -200.5 200.5 410 200.5 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $290 $-1 $101 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+vertex $-1 -1 -1 $-1 $101 $291 #
+straight-curve $-1 -1 -1 $-1 200.5 2 200.5 0 408 0 I I #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $292 $-1 $102 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+vertex $-1 -1 -1 $-1 $102 $293 #
+straight-curve $-1 -1 -1 $-1 200.5 2 -200.5 0 408 0 I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $294 $103 $54 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:391 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $295 $-1 $104 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+plane-surface $-1 -1 -1 $-1 200.5 206 0 1 0 -0 -0 0 -1 forward_v I I I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $296 $105 $31 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:295 #
+rgb_color-st-attrib $-1 -1 $-1 $109 $22 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0.7921568751335144 0.81960785388946533 0.93333333730697632 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $297 $110 $36 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $298 $111 $63 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:237 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $299 $-1 $112 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+face $300 -1 -1 $-1 $171 $159 $4 $-1 $301 reversed single T -200.5 2 -200.5 -200.5 410 200.5 F #
+loop $302 -1 -1 $-1 $-1 $212 $112 T -202.5 408 -222.5 202.5 408 -202.5 unknown #
+plane-surface $-1 -1 -1 $-1 0 408 -212.5 0 1 0 0 0 1 forward_v I I I I #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $303 $-1 $113 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+coedge $-1 -1 -1 $-1 $304 $305 $201 $306 reversed $113 $-1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $307 $115 $64 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:157 #
+coedge $-1 -1 -1 $-1 $308 $116 $309 $310 forward $64 $-1 #
+coedge $-1 -1 -1 $-1 $116 $308 $311 $312 forward $64 $-1 #
+coedge $-1 -1 -1 $-1 $313 $314 $116 $199 reversed $130 $-1 #
+edge $315 -1 -1 $-1 $316 0 $317 1 $116 $318 forward @7 unknown T -202.5 410 222.5 202.5 410 222.5 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $117 $37 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+coedge $-1 -1 -1 $-1 $119 $118 $194 $306 forward $37 $-1 #
+coedge $-1 -1 -1 $-1 $319 $320 $118 $203 reversed $321 $-1 #
+edge $322 -1 -1 $-1 $210 0 $323 1 $118 $324 forward @7 unknown T 222.5 408 202.5 222.5 410 202.5 #
+coedge $-1 -1 -1 $-1 $325 $326 $119 $205 reversed $327 $-1 #
+edge $328 -1 -1 $-1 $329 0 $209 1 $119 $330 forward @7 unknown T 222.5 408 -202.5 222.5 410 -202.5 #
+coedge $-1 -1 -1 $-1 $129 $120 $326 $331 forward $130 $-1 #
+coedge $-1 -1 -1 $-1 $120 $313 $319 $332 reversed $130 $-1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $333 $-1 $121 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+vertex $-1 -1 -1 $-1 $205 $334 #
+vertex $-1 -1 -1 $-1 $121 $335 #
+straight-curve $-1 -1 -1 $-1 222.5 410 -202.5 0 0 405 I I #
+coedge $-1 -1 -1 $-1 $336 $337 $123 $213 reversed $191 $-1 #
+edge $338 -1 -1 $-1 $218 0 $224 1 $123 $339 forward @7 unknown T -202.5 408 -222.5 202.5 408 -222.5 #
+coedge $-1 -1 -1 $-1 $340 $124 $129 $228 forward $216 $-1 #
+coedge $-1 -1 -1 $-1 $124 $340 $336 $341 forward $216 $-1 #
+loop $342 -1 -1 $-1 $-1 $215 $343 T 202.5 408 -222.5 202.5 410 -202.5 unknown #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $344 $-1 $125 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+vertex $-1 -1 -1 $-1 $125 $345 #
+straight-curve $-1 -1 -1 $-1 202.5 410 -222.5 0 -2 0 I I #
+coedge $-1 -1 -1 $-1 $346 $126 $337 $347 forward $222 $-1 #
+coedge $-1 -1 -1 $-1 $126 $346 $128 $227 reversed $222 $-1 #
+loop $348 -1 -1 $-1 $-1 $220 $264 T -202.5 408 -222.5 -202.5 410 -202.5 unknown #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $349 $-1 $127 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+vertex $-1 -1 -1 $-1 $213 $350 #
+straight-curve $-1 -1 -1 $-1 -202.5 408 -222.5 0 2 0 I I #
+coedge $-1 -1 -1 $-1 $351 $128 $352 $353 reversed $130 $-1 #
+edge $354 -1 -1 $-1 $132 0 $355 1 $221 $356 forward @7 unknown T -202.5 410 -222.5 -202.5 410 -202.5 #
+edge $357 -1 -1 $-1 $133 0 $358 1 $214 $359 forward @7 unknown T 202.5 410 -222.5 202.5 410 -202.5 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $360 $-1 $130 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+loop $361 -1 -1 $-1 $-1 $174 $232 T -200.5 410 -200.5 200.5 410 200.5 hole $233 T #
+coedge $-1 -1 -1 $-1 $314 $351 $362 $363 reversed $130 $-1 #
+face $364 -1 -1 $-1 $365 $130 $4 $-1 $233 reversed single T -222.5 410 -222.5 222.5 410 222.5 F #
+plane-surface $-1 -1 -1 $-1 0 410 0 0 -1 0 0 0 -1 forward_v I I I I #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $366 $131 $72 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_SHOW 0 #
+point $-1 -1 -1 $-1 -202.5 410 -222.5 #
+point $-1 -1 -1 $-1 202.5 410 -222.5 #
+coedge $-1 -1 -1 $-1 $367 $135 $138 $243 forward $239 $-1 #
+coedge $-1 -1 -1 $-1 $135 $367 $143 $249 reversed $239 $-1 #
+loop $368 -1 -1 $-1 $-1 $237 $369 T 202.5 0 -202.5 202.5 408 202.5 unknown #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $370 $-1 $136 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+straight-curve $-1 -1 -1 $-1 202.5 0 -202.5 0 0 405 I I #
+coedge $-1 -1 -1 $-1 $138 $137 $371 $372 forward $139 $-1 #
+edge $373 -1 -1 $-1 $141 0 $374 1 $138 $375 forward @7 unknown T 202.5 0 -202.5 202.5 408 -202.5 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $376 $-1 $139 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+face $377 -1 -1 $-1 $369 $139 $4 $-1 $378 reversed single T -202.5 0 -202.5 202.5 408 -202.5 F #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $379 $140 $76 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_SHOW 0 #
+point $-1 -1 -1 $-1 202.5 0 -202.5 #
+coedge $-1 -1 -1 $-1 $144 $143 $380 $381 reversed $145 $-1 #
+edge $382 -1 -1 $-1 $147 0 $383 1 $238 $384 forward @7 unknown T 202.5 0 202.5 202.5 408 202.5 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $385 $-1 $145 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+face $386 -1 -1 $-1 $153 $145 $4 $-1 $387 reversed single T -202.5 0 202.5 202.5 408 202.5 F #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $388 $146 $78 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_SHOW 0 #
+point $-1 -1 -1 $-1 202.5 0 202.5 #
+coedge $-1 -1 -1 $-1 $389 $390 $149 $255 forward $391 $-1 #
+edge $392 -1 -1 $-1 $260 0 $257 1 $149 $393 forward @7 unknown T -202.5 408 -202.5 -202.5 408 202.5 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $394 $-1 $150 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+vertex $-1 -1 -1 $-1 $150 $395 #
+straight-curve $-1 -1 -1 $-1 -202.5 0 202.5 0 408 0 I I #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $396 $-1 $151 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+vertex $-1 -1 -1 $-1 $347 $397 #
+straight-curve $-1 -1 -1 $-1 -202.5 408 -202.5 0 -408 0 I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $398 $152 $81 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:547 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $399 $-1 $153 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+face $400 -1 -1 $-1 $401 $222 $4 $-1 $402 reversed single T -202.5 408 -222.5 -202.5 410 -202.5 F #
+plane-surface $-1 -1 -1 $-1 -202.5 204 0 1 0 -0 -0 0 -1 forward_v I I I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $403 $154 $45 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:425 #
+coedge $-1 -1 -1 $-1 $158 $157 $404 $405 reversed $159 $-1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $406 $-1 $159 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $407 $160 $87 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_SHOW 0 #
+coedge $-1 -1 -1 $-1 $174 $404 $162 $271 forward $230 $-1 #
+edge $408 -1 -1 $-1 $273 0 $180 1 $162 $409 forward @7 unknown T -200.5 410 -200.5 200.5 410 -200.5 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $410 $-1 $163 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+vertex $-1 -1 -1 $-1 $405 $411 #
+straight-curve $-1 -1 -1 $-1 -200.5 410 -200.5 0 -408 0 I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $412 $164 $90 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:417 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $413 $-1 $165 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+plane-surface $-1 -1 -1 $-1 0 206 -200.5 0 0 -1 -1 0 0 forward_v I I I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $414 $166 $49 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:307 #
+coedge $-1 -1 -1 $-1 $404 $174 $168 $280 forward $230 $-1 #
+edge $415 -1 -1 $-1 $177 0 $282 1 $168 $416 forward @7 unknown T -200.5 410 200.5 200.5 410 200.5 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $417 $-1 $169 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+vertex $-1 -1 -1 $-1 $169 $418 #
+straight-curve $-1 -1 -1 $-1 -200.5 2 200.5 0 408 0 I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $419 $170 $96 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:365 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $420 $-1 $171 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+plane-surface $-1 -1 -1 $-1 0 206 200.5 0 0 1 1 0 0 forward_v I I I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $421 $172 $51 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:299 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $422 $-1 $175 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+straight-curve $-1 -1 -1 $-1 200.5 410 -200.5 0 0 401 I I #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $423 $176 $101 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_SHOW 0 #
+point $-1 -1 -1 $-1 200.5 410 200.5 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $424 $179 $102 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_SHOW 0 #
+point $-1 -1 -1 $-1 200.5 410 -200.5 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $182 $54 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $425 $183 $104 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:393 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $185 $31 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+rgb_color-st-attrib $-1 -1 $-1 $187 $36 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0.7921568751335144 0.81960785388946533 0.93333333730697632 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $426 $188 $63 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $427 $189 $112 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:263 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $428 $-1 $190 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+plane-surface $-1 -1 -1 $-1 -200.5 206 0 -1 -0 -0 0 0 1 forward_v I I I I #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $429 $-1 $191 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $430 $193 $113 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:235 #
+coedge $-1 -1 -1 $-1 $431 $194 $320 $432 reversed $113 $-1 #
+coedge $-1 -1 -1 $-1 $194 $431 $325 $433 reversed $113 $-1 #
+edge $434 -1 -1 $-1 $323 0 $329 1 $201 $435 forward @7 unknown T 222.5 408 -202.5 222.5 408 202.5 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $195 $64 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+coedge $-1 -1 -1 $-1 $197 $196 $436 $437 forward $64 $-1 #
+coedge $-1 -1 -1 $-1 $438 $439 $196 $310 reversed $440 $-1 #
+edge $441 -1 -1 $-1 $317 0 $442 1 $196 $443 forward @7 unknown T -202.5 408 222.5 -202.5 410 222.5 #
+coedge $-1 -1 -1 $-1 $444 $445 $197 $312 reversed $446 $-1 #
+edge $447 -1 -1 $-1 $448 0 $316 1 $197 $449 forward @7 unknown T 202.5 408 222.5 202.5 410 222.5 #
+coedge $-1 -1 -1 $-1 $207 $198 $445 $450 forward $130 $-1 #
+coedge $-1 -1 -1 $-1 $198 $231 $438 $451 reversed $130 $-1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $452 $-1 $199 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+vertex $-1 -1 -1 $-1 $312 $453 #
+vertex $-1 -1 -1 $-1 $199 $454 #
+straight-curve $-1 -1 -1 $-1 202.5 410 222.5 -405 0 0 I I #
+coedge $-1 -1 -1 $-1 $455 $202 $207 $332 forward $321 $-1 #
+coedge $-1 -1 -1 $-1 $202 $455 $304 $432 forward $321 $-1 #
+loop $456 -1 -1 $-1 $-1 $320 $457 T 202.5 408 202.5 222.5 410 202.5 unknown #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $458 $-1 $203 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+vertex $-1 -1 -1 $-1 $203 $459 #
+straight-curve $-1 -1 -1 $-1 222.5 410 202.5 0 -2 0 I I #
+coedge $-1 -1 -1 $-1 $460 $204 $305 $433 forward $327 $-1 #
+coedge $-1 -1 -1 $-1 $204 $460 $206 $331 reversed $327 $-1 #
+loop $461 -1 -1 $-1 $-1 $325 $462 T 202.5 408 -202.5 222.5 410 -202.5 unknown #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $463 $-1 $205 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+vertex $-1 -1 -1 $-1 $306 $464 #
+straight-curve $-1 -1 -1 $-1 222.5 408 -202.5 0 2 0 I I #
+edge $465 -1 -1 $-1 $209 0 $358 1 $326 $466 forward @7 unknown T 202.5 410 -202.5 222.5 410 -202.5 #
+edge $467 -1 -1 $-1 $210 0 $468 1 $319 $469 forward @7 unknown T 202.5 410 202.5 222.5 410 202.5 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $470 $208 $121 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_SHOW 0 #
+point $-1 -1 -1 $-1 222.5 410 -202.5 #
+point $-1 -1 -1 $-1 222.5 410 202.5 #
+coedge $-1 -1 -1 $-1 $371 $212 $215 $341 reversed $191 $-1 #
+coedge $-1 -1 -1 $-1 $212 $371 $220 $347 reversed $191 $-1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $471 $-1 $213 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+straight-curve $-1 -1 -1 $-1 202.5 408 -222.5 -405 0 0 I I #
+coedge $-1 -1 -1 $-1 $215 $214 $460 $472 forward $216 $-1 #
+edge $473 -1 -1 $-1 $374 0 $218 1 $336 $474 forward @7 unknown T 202.5 408 -222.5 202.5 408 -202.5 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $475 $-1 $216 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+face $476 -1 -1 $-1 $462 $216 $4 $-1 $477 forward single T 202.5 408 -222.5 202.5 410 -202.5 F #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $478 $217 $125 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_SHOW 0 #
+point $-1 -1 -1 $-1 202.5 408 -222.5 #
+coedge $-1 -1 -1 $-1 $221 $220 $479 $480 reversed $222 $-1 #
+edge $481 -1 -1 $-1 $224 0 $260 1 $337 $482 forward @7 unknown T -202.5 408 -222.5 -202.5 408 -202.5 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $483 $-1 $222 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $484 $223 $127 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_SHOW 0 #
+point $-1 -1 -1 $-1 -202.5 408 -222.5 #
+coedge $-1 -1 -1 $-1 $231 $226 $485 $486 reversed $130 $-1 #
+coedge $-1 -1 -1 $-1 $479 $487 $226 $353 forward $488 $-1 #
+edge $489 -1 -1 $-1 $490 0 $355 1 $352 $491 forward @7 unknown T -222.5 410 -202.5 -202.5 410 -202.5 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $492 $-1 $227 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+vertex $-1 -1 -1 $-1 $227 $493 #
+straight-curve $-1 -1 -1 $-1 -202.5 410 -222.5 0 0 20 I I #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $494 $-1 $228 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+vertex $-1 -1 -1 $-1 $228 $495 #
+straight-curve $-1 -1 -1 $-1 202.5 410 -222.5 0 0 20 I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $496 $229 $130 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @5 DE:57 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $497 $-1 $230 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+coedge $-1 -1 -1 $-1 $498 $499 $231 $363 forward $500 $-1 #
+edge $501 -1 -1 $-1 $502 5.0000011242445906e-09 $503 1 $231 $504 forward @7 unknown T -222.5 410 202.5 -202.50000010000002 410 202.50000010000005 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $505 $-1 $232 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+face $506 -1 -1 $-1 $507 $508 $4 $-1 $509 forward single T -222.5 408 -202.5 -222.5 410 202.50000010000002 F #
+string_attrib-name_attrib-gen-attrib $-1 -1 $510 $234 $72 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @5 DE:87 #
+coedge $-1 -1 -1 $-1 $238 $237 $431 $511 forward $239 $-1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $512 $-1 $239 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+face $513 -1 -1 $-1 $251 $239 $4 $-1 $514 reversed single T 202.5 0 -202.5 202.5 408 202.5 F #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $515 $240 $136 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_SHOW 0 #
+coedge $-1 -1 -1 $-1 $337 $336 $242 $372 reversed $191 $-1 #
+edge $516 -1 -1 $-1 $260 0 $374 1 $371 $517 forward @7 unknown T -202.5 408 -202.5 202.5 408 -202.5 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $518 $-1 $243 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+vertex $-1 -1 -1 $-1 $372 $519 #
+straight-curve $-1 -1 -1 $-1 202.5 0 -202.5 0 408 0 I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $520 $244 $139 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:469 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $521 $-1 $245 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+plane-surface $-1 -1 -1 $-1 0 204 -202.5 0 0 1 1 0 0 forward_v I I I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $522 $246 $76 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:429 #
+coedge $-1 -1 -1 $-1 $523 $524 $248 $381 forward $525 $-1 #
+edge $526 -1 -1 $-1 $257 0 $383 1 $248 $527 forward @7 unknown T -202.5 408 202.5 202.5 408 202.5 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $528 $-1 $249 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+vertex $-1 -1 -1 $-1 $511 $529 #
+straight-curve $-1 -1 -1 $-1 202.5 0 202.5 0 408 0 I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $530 $250 $145 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:521 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $531 $-1 $251 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+plane-surface $-1 -1 -1 $-1 0 204 202.5 0 0 -1 -1 0 0 forward_v I I I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $532 $252 $78 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:437 #
+coedge $-1 -1 -1 $-1 $533 $254 $534 $535 reversed $391 $-1 #
+coedge $-1 -1 -1 $-1 $254 $533 $536 $537 reversed $391 $-1 #
+loop $538 -1 -1 $-1 $-1 $390 $539 T -222.5 408 -202.5 -202.5 408 202.5 unknown #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $540 $-1 $255 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+straight-curve $-1 -1 -1 $-1 -202.5 408 -202.5 0 0 405 I I #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $541 $256 $150 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_SHOW 0 #
+point $-1 -1 -1 $-1 -202.5 408 202.5 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $542 $259 $151 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_SHOW 0 #
+point $-1 -1 -1 $-1 -202.5 408 -202.5 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $262 $81 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $543 $263 $153 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:549 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $544 $-1 $264 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+face $545 -1 -1 $-1 $343 $488 $4 $-1 $546 forward single T -222.5 408 -202.5 -202.5 410 -202.5 F #
+plane-surface $-1 -1 -1 $-1 -202.5 409 -212.5 1 0 -0 -0 0 -1 forward_v I I I I #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $266 $45 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+coedge $-1 -1 -1 $-1 $270 $279 $267 $405 forward $230 $-1 #
+edge $547 -1 -1 $-1 $282 0 $273 1 $267 $548 forward @7 unknown T -200.5 410 -200.5 -200.5 410 200.5 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $549 $268 $159 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:339 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $550 $269 $87 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:303 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $551 $-1 $271 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+straight-curve $-1 -1 -1 $-1 -200.5 410 -200.5 401 0 0 I I #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $552 $272 $163 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_SHOW 0 #
+point $-1 -1 -1 $-1 -200.5 410 -200.5 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $275 $90 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $553 $276 $165 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:419 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $278 $49 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $554 $-1 $280 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+straight-curve $-1 -1 -1 $-1 200.5 410 200.5 -401 0 0 I I #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $555 $281 $169 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_SHOW 0 #
+point $-1 -1 -1 $-1 -200.5 410 200.5 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $284 $96 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $556 $285 $171 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:367 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $287 $51 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $557 $288 $175 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_SHOW 0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $558 $290 $101 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:351 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $559 $292 $102 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:377 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $560 $295 $104 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+rgb_color-st-attrib $-1 -1 $-1 $298 $63 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0.7921568751335144 0.81960785388946533 0.93333333730697632 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $561 $299 $112 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $562 $300 $190 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:341 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $563 $302 $191 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:261 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $303 $113 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+coedge $-1 -1 -1 $-1 $305 $304 $367 $511 reversed $113 $-1 #
+edge $564 -1 -1 $-1 $383 0 $323 1 $304 $565 forward @7 unknown T 202.5 408 202.5 222.5 408 202.5 #
+edge $566 -1 -1 $-1 $329 0 $374 1 $305 $567 forward @7 unknown T 202.5 408 -202.5 222.5 408 -202.5 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $568 $-1 $306 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+straight-curve $-1 -1 -1 $-1 222.5 408 202.5 0 0 -405 I I #
+coedge $-1 -1 -1 $-1 $524 $523 $308 $437 reversed $525 $-1 #
+edge $569 -1 -1 $-1 $442 0 $448 1 $308 $570 forward @7 unknown T -202.5 408 222.5 202.5 408 222.5 #
+coedge $-1 -1 -1 $-1 $571 $309 $314 $451 forward $440 $-1 #
+coedge $-1 -1 -1 $-1 $309 $571 $524 $572 forward $440 $-1 #
+loop $573 -1 -1 $-1 $-1 $439 $574 T -202.50000010000002 408 202.5 -202.5 410 222.5 unknown #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $575 $-1 $310 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+vertex $-1 -1 -1 $-1 $310 $576 #
+straight-curve $-1 -1 -1 $-1 -202.5 410 222.5 0 -2 0 I I #
+coedge $-1 -1 -1 $-1 $577 $311 $523 $578 reversed $446 $-1 #
+coedge $-1 -1 -1 $-1 $311 $577 $313 $450 reversed $446 $-1 #
+loop $579 -1 -1 $-1 $-1 $444 $580 T 202.5 408 202.5 202.5 410 222.5 unknown #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $581 $-1 $312 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+vertex $-1 -1 -1 $-1 $437 $582 #
+straight-curve $-1 -1 -1 $-1 202.5 408 222.5 0 2 0 I I #
+edge $583 -1 -1 $-1 $316 0 $468 1 $445 $584 forward @7 unknown T 202.5 410 202.5 202.5 410 222.5 #
+edge $585 -1 -1 $-1 $317 0 $502 0.99999999499999748 $314 $586 forward @7 unknown T -202.50000010000002 410 202.50000010000005 -202.5 410 222.5 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $587 $315 $199 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_SHOW 0 #
+point $-1 -1 -1 $-1 202.5 410 222.5 #
+point $-1 -1 -1 $-1 -202.5 410 222.5 #
+coedge $-1 -1 -1 $-1 $320 $319 $577 $588 forward $321 $-1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $589 $-1 $321 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+face $590 -1 -1 $-1 $580 $321 $4 $-1 $591 forward single T 202.5 408 202.5 222.5 410 202.5 F #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $592 $322 $203 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_SHOW 0 #
+point $-1 -1 -1 $-1 222.5 408 202.5 #
+coedge $-1 -1 -1 $-1 $326 $325 $340 $472 reversed $327 $-1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $593 $-1 $327 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+face $594 -1 -1 $-1 $457 $327 $4 $-1 $595 reversed single T 202.5 408 -202.5 222.5 410 -202.5 F #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $596 $328 $205 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_SHOW 0 #
+point $-1 -1 -1 $-1 222.5 408 -202.5 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $597 $-1 $331 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+straight-curve $-1 -1 -1 $-1 222.5 410 -202.5 -20 0 0 I I #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $598 $-1 $332 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+vertex $-1 -1 -1 $-1 $332 $599 #
+straight-curve $-1 -1 -1 $-1 222.5 410 202.5 -20 0 0 I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $600 $333 $121 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:113 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $601 $338 $213 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_SHOW 0 #
+edge $602 -1 -1 $-1 $358 0 $374 1 $340 $603 forward @7 unknown T 202.5 408 -202.5 202.5 410 -202.5 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $604 $-1 $341 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+straight-curve $-1 -1 -1 $-1 202.5 408 -202.5 0 0 -20 I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $605 $342 $216 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:625 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $606 $-1 $343 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+plane-surface $-1 -1 -1 $-1 202.5 409 -212.5 1 0 -0 -0 0 -1 forward_v I I I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $607 $344 $125 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @5 DE:91 #
+coedge $-1 -1 -1 $-1 $536 $352 $346 $480 forward $488 $-1 #
+edge $608 -1 -1 $-1 $355 0 $260 1 $346 $609 forward @7 unknown T -202.5 408 -202.5 -202.5 410 -202.5 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $610 $-1 $347 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+straight-curve $-1 -1 -1 $-1 -202.5 408 -222.5 0 0 20 I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $611 $348 $222 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:573 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $612 $349 $127 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @5 DE:99 #
+coedge $-1 -1 -1 $-1 $613 $614 $351 $486 forward $508 $-1 #
+edge $615 -1 -1 $-1 $503 -2.4691363576516496e-10 $490 1 $351 $616 forward @7 unknown T -222.5 410 -202.5 -222.5 410 202.50000010000002 #
+coedge $-1 -1 -1 $-1 $352 $536 $613 $617 forward $488 $-1 #
+loop $618 -1 -1 $-1 $-1 $536 $401 T -222.5 408 -202.5 -202.5 410 -202.5 unknown #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $619 $-1 $353 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+vertex $-1 -1 -1 $-1 $617 $620 #
+straight-curve $-1 -1 -1 $-1 -222.5 410 -202.5 20 0 0 I I #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $621 $354 $227 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_SHOW 0 #
+point $-1 -1 -1 $-1 -202.5 410 -202.5 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $622 $357 $228 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_SHOW 0 #
+point $-1 -1 -1 $-1 202.5 410 -202.5 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $360 $130 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $623 $361 $230 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @5 DE:79 #
+coedge $-1 -1 -1 $-1 $534 $362 $614 $624 reversed $500 $-1 #
+coedge $-1 -1 -1 $-1 $362 $534 $571 $625 reversed $500 $-1 #
+loop $626 -1 -1 $-1 $-1 $534 $627 T -222.5 408 202.5 -202.5 410 202.50000010000005 unknown #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $628 $-1 $363 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+vertex $-1 -1 -1 $-1 $451 $629 #
+vertex $-1 -1 -1 $-1 $363 $630 #
+straight-curve $-1 -1 -1 $-1 -202.5 410 202.5 -20 0 0 I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $631 $364 $232 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @5 DE:81 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $632 $-1 $365 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+face $633 -1 -1 $-1 $539 $525 $4 $-1 $634 reversed single T -202.5 408 202.5 202.5 408 222.5 F #
+loop $635 -1 -1 $-1 $-1 $614 $365 T -222.5 408 -202.5 -222.5 410 202.50000010000002 unknown #
+plane-surface $-1 -1 -1 $-1 -222.5 409 0 -1 -0 -0 0 0 1 forward_v I I I I #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $366 $72 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+edge $636 -1 -1 $-1 $374 0 $383 1 $431 $637 forward @7 unknown T 202.5 408 -202.5 202.5 408 202.5 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $638 $368 $239 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:495 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $639 $-1 $369 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+plane-surface $-1 -1 -1 $-1 202.5 204 0 -1 -0 -0 0 0 1 forward_v I I I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $640 $370 $136 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:433 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $641 $-1 $372 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+straight-curve $-1 -1 -1 $-1 -202.5 408 -202.5 405 0 0 I I #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $642 $373 $243 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_SHOW 0 #
+point $-1 -1 -1 $-1 202.5 408 -202.5 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $376 $139 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $643 $377 $245 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:471 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $379 $76 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+coedge $-1 -1 -1 $-1 $436 $380 $444 $578 forward $525 $-1 #
+coedge $-1 -1 -1 $-1 $380 $436 $439 $572 reversed $525 $-1 #
+loop $644 -1 -1 $-1 $-1 $436 $507 T -202.5 408 202.5 202.5 408 222.5 unknown #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $645 $-1 $381 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+straight-curve $-1 -1 -1 $-1 -202.5 408 202.5 405 0 0 I I #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $646 $382 $249 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_SHOW 0 #
+point $-1 -1 -1 $-1 202.5 408 202.5 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $385 $145 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $647 $386 $251 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:523 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $388 $78 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+coedge $-1 -1 -1 $-1 $390 $389 $648 $649 reversed $391 $-1 #
+coedge $-1 -1 -1 $-1 $499 $498 $389 $535 forward $500 $-1 #
+edge $650 -1 -1 $-1 $651 0 $257 1 $389 $652 forward @7 unknown T -222.5 408 202.5 -202.5 408 202.5 #
+coedge $-1 -1 -1 $-1 $487 $479 $390 $537 forward $488 $-1 #
+edge $653 -1 -1 $-1 $260 0 $654 1 $536 $655 forward @7 unknown T -222.5 408 -202.5 -202.5 408 -202.5 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $656 $-1 $391 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+face $657 -1 -1 $-1 $574 $391 $4 $-1 $658 reversed single T -222.5 408 -202.5 -202.5 408 202.5 F #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $659 $392 $255 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_SHOW 0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $660 $394 $150 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:511 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $661 $396 $151 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:451 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $662 $399 $153 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $663 $400 $264 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:575 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $664 $-1 $401 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+plane-surface $-1 -1 -1 $-1 -212.5 409 -202.5 0 0 -1 -1 0 0 forward_v I I I I #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $665 $-1 $405 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+straight-curve $-1 -1 -1 $-1 -200.5 410 200.5 0 0 -401 I I #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $406 $159 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $407 $87 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $666 $408 $271 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_SHOW 0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $667 $410 $163 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:333 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $668 $413 $165 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $669 $415 $280 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_SHOW 0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $670 $417 $169 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:325 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $671 $420 $171 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $672 $422 $175 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:381 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $423 $101 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $424 $102 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+rgb_color-st-attrib $-1 -1 $-1 $425 $104 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0.7921568751335144 0.81960785388946533 0.93333333730697632 #
+rgb_color-st-attrib $-1 -1 $-1 $427 $112 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0.7921568751335144 0.81960785388946533 0.93333333730697632 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $673 $428 $190 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $429 $191 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $674 $-1 $432 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+straight-curve $-1 -1 -1 $-1 202.5 408 202.5 20 0 0 I I #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $675 $-1 $433 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+straight-curve $-1 -1 -1 $-1 222.5 408 -202.5 -20 0 0 I I #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $676 $434 $306 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_SHOW 0 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $677 $-1 $437 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+straight-curve $-1 -1 -1 $-1 -202.5 408 222.5 405 0 0 I I #
+coedge $-1 -1 -1 $-1 $439 $438 $499 $625 forward $440 $-1 #
+edge $678 -1 -1 $-1 $257 0 $442 1 $524 $679 forward @7 unknown T -202.5 408 202.5 -202.5 408 222.5 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $680 $-1 $440 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+face $681 -1 -1 $-1 $627 $440 $4 $-1 $682 forward single T -202.50000010000002 408 202.5 -202.5 410 222.5 F #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $683 $441 $310 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_SHOW 0 #
+point $-1 -1 -1 $-1 -202.5 408 222.5 #
+coedge $-1 -1 -1 $-1 $445 $444 $455 $588 reversed $446 $-1 #
+edge $684 -1 -1 $-1 $383 0 $448 1 $444 $685 forward @7 unknown T 202.5 408 202.5 202.5 408 222.5 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $686 $-1 $446 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+face $687 -1 -1 $-1 $232 $446 $4 $-1 $688 reversed single T 202.5 408 202.5 202.5 410 222.5 F #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $689 $447 $312 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_SHOW 0 #
+point $-1 -1 -1 $-1 202.5 408 222.5 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $690 $-1 $450 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+straight-curve $-1 -1 -1 $-1 202.5 410 222.5 0 0 -20 I I #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $691 $-1 $451 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+straight-curve $-1 -1 -1 $-1 -202.5 410 222.5 0 0 -20 I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $692 $452 $199 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:139 #
+edge $693 -1 -1 $-1 $468 0 $383 1 $455 $694 forward @7 unknown T 202.5 408 202.5 202.5 410 202.5 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $695 $456 $321 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:677 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $696 $-1 $457 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+plane-surface $-1 -1 -1 $-1 212.5 409 202.5 0 0 1 1 0 0 forward_v I I I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $697 $458 $203 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:117 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $698 $461 $327 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:651 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $699 $-1 $462 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+plane-surface $-1 -1 -1 $-1 212.5 409 -202.5 0 0 1 1 0 0 forward_v I I I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $700 $463 $205 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:125 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $701 $465 $331 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_SHOW 0 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $702 $467 $332 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_SHOW 0 #
+point $-1 -1 -1 $-1 202.5 410 202.5 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $470 $121 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $703 $471 $213 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @5 DE:95 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $704 $-1 $472 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+straight-curve $-1 -1 -1 $-1 202.5 410 -202.5 0 -2 0 I I #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $705 $473 $341 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_SHOW 0 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $475 $216 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $706 $476 $343 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:627 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $478 $125 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $707 $-1 $480 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+straight-curve $-1 -1 -1 $-1 -202.5 410 -202.5 0 -2 0 I I #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $708 $481 $347 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_SHOW 0 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $483 $222 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $484 $127 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+coedge $-1 -1 -1 $-1 $648 $485 $487 $617 reversed $508 $-1 #
+coedge $-1 -1 -1 $-1 $485 $648 $498 $624 forward $508 $-1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $709 $-1 $486 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+straight-curve $-1 -1 -1 $-1 -222.5 410 202.5 0 0 -405 I I #
+edge $710 -1 -1 $-1 $654 0 $490 1 $487 $711 forward @7 unknown T -222.5 408 -202.5 -222.5 410 -202.5 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $712 $-1 $488 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $713 $489 $353 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_SHOW 0 #
+point $-1 -1 -1 $-1 -222.5 410 -202.5 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $714 $492 $227 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:563 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $715 $494 $228 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:615 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $497 $230 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+edge $716 -1 -1 $-1 $651 0 $503 1 $614 $717 forward @7 unknown T -222.5 408 202.5 -222.5 410 202.50000010000002 #
+edge $718 -1 -1 $-1 $502 0 $257 1 $571 $719 forward @7 unknown T -202.50000010000002 408 202.5 -202.5 410 202.50000010000005 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $720 $-1 $500 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+face $721 -1 -1 $-1 $-1 $500 $4 $-1 $722 reversed single T -222.5 408 202.5 -202.5 410 202.50000010000005 F #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $723 $501 $363 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_SHOW 0 #
+point $-1 -1 -1 $-1 -202.50000010000002 410 202.50000010000005 #
+point $-1 -1 -1 $-1 -222.5 410 202.50000010000002 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $724 $505 $232 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $725 $506 $365 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:185 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $726 $-1 $507 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+plane-surface $-1 -1 -1 $-1 0 408 212.5 0 1 0 0 0 1 forward_v I I I I #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $727 $-1 $508 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $728 $-1 $511 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+straight-curve $-1 -1 -1 $-1 202.5 408 -202.5 0 0 405 I I #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $512 $239 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $729 $513 $369 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:497 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $515 $136 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $730 $516 $372 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_SHOW 0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $731 $518 $243 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:459 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $732 $521 $245 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $733 $-1 $525 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $734 $526 $381 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_SHOW 0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $735 $528 $249 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:485 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $736 $531 $251 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+coedge $-1 -1 -1 $-1 $614 $613 $533 $649 forward $508 $-1 #
+edge $737 -1 -1 $-1 $654 0 $651 1 $648 $738 forward @7 unknown T -222.5 408 -202.5 -222.5 408 202.5 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $739 $-1 $535 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+vertex $-1 -1 -1 $-1 $649 $740 #
+straight-curve $-1 -1 -1 $-1 -222.5 408 202.5 20 0 0 I I #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $741 $-1 $537 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+vertex $-1 -1 -1 $-1 $537 $742 #
+straight-curve $-1 -1 -1 $-1 -202.5 408 -202.5 -20 0 0 I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $743 $538 $391 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:287 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $744 $-1 $539 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+plane-surface $-1 -1 -1 $-1 -212.5 408 0 0 1 0 0 0 1 forward_v I I I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $745 $540 $255 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:541 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $541 $150 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $542 $151 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+rgb_color-st-attrib $-1 -1 $-1 $543 $153 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0.7921568751335144 0.81960785388946533 0.93333333730697632 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $746 $544 $264 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $747 $545 $401 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:601 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $748 $547 $405 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_SHOW 0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $749 $551 $271 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:407 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $552 $163 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+rgb_color-st-attrib $-1 -1 $-1 $553 $165 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0.7921568751335144 0.81960785388946533 0.93333333730697632 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $750 $554 $280 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:355 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $555 $169 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+rgb_color-st-attrib $-1 -1 $-1 $556 $171 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0.7921568751335144 0.81960785388946533 0.93333333730697632 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $557 $175 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+rgb_color-st-attrib $-1 -1 $-1 $562 $190 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0.7921568751335144 0.81960785388946533 0.93333333730697632 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $751 $564 $432 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_SHOW 0 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $752 $566 $433 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_SHOW 0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $753 $568 $306 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:121 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $754 $569 $437 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_SHOW 0 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $755 $-1 $572 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+straight-curve $-1 -1 -1 $-1 -202.5 408 202.5 0 0 20 I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $756 $573 $440 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:729 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $757 $-1 $574 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+plane-surface $-1 -1 -1 $-1 -202.5 409 212.5 -1 -0 -0 0 0 1 forward_v I I I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $758 $575 $310 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:143 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $759 $-1 $578 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+straight-curve $-1 -1 -1 $-1 202.5 408 202.5 0 0 20 I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $760 $579 $446 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:703 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $761 $-1 $580 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+plane-surface $-1 -1 -1 $-1 202.5 409 212.5 -1 -0 -0 0 0 1 forward_v I I I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $762 $581 $312 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:151 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $763 $583 $450 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_SHOW 0 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $764 $585 $451 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_SHOW 0 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $587 $199 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $765 $-1 $588 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+straight-curve $-1 -1 -1 $-1 202.5 410 202.5 0 -2 0 I I #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $589 $321 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $766 $590 $457 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:679 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $592 $203 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $593 $327 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $767 $594 $462 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:653 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $596 $205 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $768 $597 $331 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:641 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $769 $598 $332 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:667 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $601 $213 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $770 $602 $472 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_SHOW 0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $771 $604 $341 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:255 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $772 $606 $343 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $773 $608 $480 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_SHOW 0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $774 $610 $347 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:247 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $775 $615 $486 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_SHOW 0 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $776 $-1 $617 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+straight-curve $-1 -1 -1 $-1 -222.5 408 -202.5 0 2 0 I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $777 $618 $488 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:599 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $778 $619 $353 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:589 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $621 $227 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $622 $228 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $779 $-1 $624 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+straight-curve $-1 -1 -1 $-1 -222.5 408 202.5 0 2 0 I I #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $780 $-1 $625 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+straight-curve $-1 -1 -1 $-1 -202.5 410 202.5 0 -2 0 I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $781 $626 $500 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:755 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $782 $-1 $627 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+plane-surface $-1 -1 -1 $-1 -212.5 409 202.5 0 0 -1 -1 0 0 forward_v I I I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $783 $628 $363 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @4 DE:7 #
+rgb_color-st-attrib $-1 -1 $-1 $631 $232 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0.7921568751335144 0.81960785388946533 0.93333333730697632 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $784 $632 $365 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $785 $633 $507 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:211 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $786 $635 $508 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:183 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $787 $636 $511 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_SHOW 0 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $788 $639 $369 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $789 $641 $372 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:251 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $642 $243 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+rgb_color-st-attrib $-1 -1 $-1 $643 $245 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0.7921568751335144 0.81960785388946533 0.93333333730697632 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $790 $644 $525 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:209 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $791 $645 $381 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:515 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $646 $249 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+rgb_color-st-attrib $-1 -1 $-1 $647 $251 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0.7921568751335144 0.81960785388946533 0.93333333730697632 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $792 $-1 $649 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @23 ATTRIB_XACIS_LINEWEIGHT 0 #
+straight-curve $-1 -1 -1 $-1 -222.5 408 -202.5 0 0 405 I I #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $793 $650 $535 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_SHOW 0 #
+point $-1 -1 -1 $-1 -222.5 408 202.5 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $794 $653 $537 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_SHOW 0 #
+point $-1 -1 -1 $-1 -222.5 408 -202.5 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $656 $391 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $795 $657 $539 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:289 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $659 $255 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+rgb_color-st-attrib $-1 -1 $-1 $663 $264 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0.7921568751335144 0.81960785388946533 0.93333333730697632 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $796 $664 $401 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $797 $665 $405 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:329 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $666 $271 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $669 $280 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $798 $674 $432 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:229 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $799 $675 $433 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:221 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $676 $306 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $800 $677 $437 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:147 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $801 $678 $572 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_SHOW 0 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $680 $440 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $802 $681 $574 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:731 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $683 $310 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $803 $684 $578 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_SHOW 0 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $686 $446 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $804 $687 $580 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:705 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $689 $312 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $805 $690 $450 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:693 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $806 $691 $451 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @5 DE:51 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $807 $693 $588 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_SHOW 0 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $808 $696 $457 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $809 $699 $462 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $701 $331 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $702 $332 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $810 $704 $472 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:619 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $705 $341 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+rgb_color-st-attrib $-1 -1 $-1 $706 $343 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0.7921568751335144 0.81960785388946533 0.93333333730697632 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $811 $707 $480 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:567 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $708 $347 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $812 $709 $486 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @5 DE:11 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $813 $710 $617 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_SHOW 0 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $712 $488 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $713 $353 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $814 $716 $624 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_SHOW 0 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $815 $718 $625 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_SHOW 0 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $720 $500 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $816 $721 $627 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:757 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $723 $363 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+rgb_color-st-attrib $-1 -1 $-1 $725 $365 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0.7921568751335144 0.81960785388946533 0.93333333730697632 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $817 $726 $507 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $727 $508 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $818 $728 $511 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:225 #
+rgb_color-st-attrib $-1 -1 $-1 $729 $369 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0.7921568751335144 0.81960785388946533 0.93333333730697632 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $730 $372 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $733 $525 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $734 $381 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $819 $737 $649 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @17 ATTRIB_XACIS_SHOW 0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $820 $739 $535 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:277 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $821 $741 $537 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:581 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $822 $744 $539 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+rgb_color-st-attrib $-1 -1 $-1 $747 $401 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0.7921568751335144 0.81960785388946533 0.93333333730697632 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $748 $405 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $751 $432 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $752 $433 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $754 $437 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $823 $755 $572 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:203 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $824 $757 $574 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $825 $759 $578 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:685 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $826 $761 $580 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $763 $450 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $764 $451 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $827 $765 $588 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:671 #
+rgb_color-st-attrib $-1 -1 $-1 $766 $457 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0.7921568751335144 0.81960785388946533 0.93333333730697632 #
+rgb_color-st-attrib $-1 -1 $-1 $767 $462 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0.7921568751335144 0.81960785388946533 0.93333333730697632 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $770 $472 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $773 $480 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $775 $486 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $828 $776 $617 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:585 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $829 $779 $624 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:165 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $830 $780 $625 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:723 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $831 $782 $627 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+rgb_color-st-attrib $-1 -1 $-1 $785 $507 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0.7921568751335144 0.81960785388946533 0.93333333730697632 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $787 $511 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $832 $792 $649 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 ATTRIB_XACIS_ID @6 DE:177 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $793 $535 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $794 $537 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+rgb_color-st-attrib $-1 -1 $-1 $795 $539 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0.7921568751335144 0.81960785388946533 0.93333333730697632 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $801 $572 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+rgb_color-st-attrib $-1 -1 $-1 $802 $574 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0.7921568751335144 0.81960785388946533 0.93333333730697632 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $803 $578 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+rgb_color-st-attrib $-1 -1 $-1 $804 $580 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0.7921568751335144 0.81960785388946533 0.93333333730697632 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $807 $588 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $813 $617 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $814 $624 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $815 $625 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+rgb_color-st-attrib $-1 -1 $-1 $816 $627 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0.7921568751335144 0.81960785388946533 0.93333333730697632 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $-1 $819 $649 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 ATTRIB_XACIS_LAYER 0 #
+End-of-ACIS-data 

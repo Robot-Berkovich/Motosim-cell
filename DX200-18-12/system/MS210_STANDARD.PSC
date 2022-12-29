@@ -1,0 +1,83 @@
+' MS210 STANDARD GISOU
+
+' S1CxG[400-407] pulse soft limit (+)
+' RCxG [924-931] mecha soft limit (+)
+'S1C1G,400,0, 'S(+)
+'RC1G, 924,0, 'S(+)
+'S1C1G,401,0, 'L(+)
+'RC1G, 925,0, 'L(+)
+'S1C1G,402,0, 'U(+)
+'RC1G, 926,0, 'U(+)
+S1C1G,403,494592, 'R(+)
+RC1G, 927,494592, 'R(+)
+S1C1G,404,307020, 'B(+)
+RC1G, 928,307020, 'B(+)
+S1C1G,405,265868, 'T(+)
+RC1G, 929,265868, 'T(+)
+'S1C1G,406,0, 'E(+)
+'RC1G, 930,0, 'E(+)
+'S1C1G,407,0, '8(+)
+'RC1G, 931,0, '8(+)
+
+
+' S1CxG[408-415] pulse soft limit (-)
+' RCxG [932-939] mecha soft limit (-)
+'S1C1G,408,0, 'S(-)
+'RC1G, 932,0, 'S(-)
+'S1C1G,409,0, 'L(-)
+'RC1G, 933,0, 'L(-)
+'S1C1G,410,0, 'U(-)
+'RC1G, 934,0, 'U(-)
+S1C1G,411,-494592, 'R(-)
+RC1G, 935,-494592, 'R(-)
+S1C1G,412,-307020, 'B(-)
+RC1G, 936,-307020, 'B(-)
+S1C1G,413,-265868, 'T(-)
+RC1G, 937,-265868, 'T(-)
+'S1C1G,414,0, 'E(-)
+'RC1G, 938,0, 'E(-)
+'S1C1G,415,0, '8(-)
+'RC1G, 939,0, '8(-)
+
+
+' RExG[2] forced setting of interference check method
+RE1G,2,1
+
+' RExG[335] number of interference conditions
+RE1G,335,3
+
+' RExG[336] interference check method
+RE1G,336,0
+
+' RExG[337-342] interference conditions 1
+RE1G,337,16
+RE1G,338,32
+RE1G,339,-1255, '0.1[deg] or [um]
+RE1G,340,-1160, '0.1[deg] or [um]
+RE1G,341,-2105, '0.1[deg] or [um]
+RE1G,342,-1800, '0.1[deg] or [um]
+RE1G,343,1
+RE1G,344,3
+
+' RExG[345-352] interference conditions 2
+RE1G,345,16
+RE1G,346,32
+RE1G,347,1160, '0.1[deg] or [um]
+RE1G,348,1255, '0.1[deg] or [um]
+RE1G,349,1800, '0.1[deg] or [um]
+RE1G,350,2105, '0.1[deg] or [um]
+RE1G,351,2
+RE1G,352,3
+
+' RExG[353-361] interference conditions 3
+RE1G,353,4
+RE1G,354,8
+RE1G,355,-900, '0.1[deg] or [um]
+RE1G,356,-841, '0.1[deg] or [um]
+RE1G,357,-1173, '0.1[deg] or [um]
+RE1G,358,-627, '0.1[deg] or [um]
+RE1G,359,3
+RE1G,360,3
+
+' RExG[361-368] interference conditions 4
+' RExG[369-376] interference conditions 5
