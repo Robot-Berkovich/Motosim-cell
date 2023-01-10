@@ -20,10 +20,16 @@ TopColor=255
 BottomColor=0
 OverColor=65535
 Gradation=1000
-ModelCnt=3
+ModelCnt=9
 Model1=Kufsat_Matehet,1
 Model2=,0
 Model3=,0
+Model4=,0
+Model5=,0
+Model6=,0
+Model7=,0
+Model8=,0
+Model9=,0
 [GUN_2]
 PaintGunNo=2
 ToolNo=0
