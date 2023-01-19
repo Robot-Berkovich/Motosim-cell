@@ -1,7 +1,0 @@
-JOB NAME:TABLE_TEST
-CHECK DATE:2023/01/15 10:55
-L:00002 ERR:2040 Defined JOB name
-L:00008 ERR:3190[5] Error in JOB data record
-L:00010 ERR:3190[4] Error in JOB data record
-L:00013 ERR:3190[13] Error in JOB data record
-L:00016(0002) C:00 ERR:3190[4] Error in JOB data record
