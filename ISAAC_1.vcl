@@ -230,10 +230,10 @@ IOSTAGE
 
 NSIMVIEW
 {
-CAMERAPOSITION=5.637273,6.154153,6.883698;
-CAMERATARGET=0.131145,0.648025,1.377569;
-CAMERAUPVECTOR=-0.408250,-0.408249,0.816499;
-CAMERAFIELD=3.814428,3.814428;
+CAMERAPOSITION=-3.212009,4.650884,3.863078;
+CAMERATARGET=1.478257,-1.613020,0.136821;
+CAMERAUPVECTOR=0.229275,-0.365083,0.902301;
+CAMERAFIELD=2.700806,2.700806;
 USERVIEW
 	{
 	NO=0
@@ -491,36 +491,6 @@ MODEL
 	MARKERVISIBLE=0;
 	LINEVISIBLE=0;
 	AXIS6=0,0,-800,90,0,0;
-	IGES_IMPORT=0,0,0,0,0,0,0;
-	}
-MODEL
-	{
-	NAME=DX200-18-01-R01-3DInRange_P;
-	PARENT=DX200-18-01-R01_rm;
-	FILENAME=C:\MOTOMAN\MotoSimEG-VRC\Cells\ISAAC-cell\\models\DX200-18-01-R01-3DInRange_P.hmf;
-	COLOR=RGB(0,0,255);
-	HIDESEE=0;
-	OPACITY=0.50;
-	SCALE=1.000000;
-	BACKPLANECULLING=0;
-	MARKERVISIBLE=0;
-	LINEVISIBLE=0;
-	AXIS6=0,0,0,0,0,0;
-	IGES_IMPORT=0,0,0,0,0,0,0;
-	}
-MODEL
-	{
-	NAME=DX200-18-01-R01-3DOutRange_P;
-	PARENT=DX200-18-01-R01_rm;
-	FILENAME=C:\MOTOMAN\MotoSimEG-VRC\Cells\ISAAC-cell\\models\DX200-18-01-R01-3DOutRange_P.hmf;
-	COLOR=RGB(0,0,255);
-	HIDESEE=0;
-	OPACITY=0.05;
-	SCALE=1.000000;
-	BACKPLANECULLING=0;
-	MARKERVISIBLE=0;
-	LINEVISIBLE=0;
-	AXIS6=0,0,0,0,0,0;
 	IGES_IMPORT=0,0,0,0,0,0,0;
 	}
 MODEL
@@ -920,7 +890,7 @@ MODEL
 	PARENT=DX200-18-01-S01_ex1;
 	FILENAME=C:\MOTOMAN\MotoSimEG-VRC\Cells\ISAAC-cell\models\PR-TT-05.IGS;
 	COLOR=RGB(0,0,255);
-	HIDESEE=1;
+	HIDESEE=0;
 	OPACITY=1.00;
 	SCALE=0.001000;
 	BACKPLANECULLING=0;
@@ -1071,6 +1041,246 @@ MODEL
 	FILENAME=C:\Users\GBrob\Desktop\CADs_and_scans\src\cylinders\pipe_screws\pipe_screws_25-07-23_centered.hsf;
 	COLOR=RGB(0,0,255);
 	HIDESEE=0;
+	OPACITY=1.00;
+	SCALE=0.001000;
+	BACKPLANECULLING=0;
+	MARKERVISIBLE=0;
+	LINEVISIBLE=0;
+	AXIS6=0,0,0,0,0,0;
+	IGES_IMPORT=0,0,0,0,0,0,0;
+	}
+MODEL
+	{
+	NAME=white_plate_centered;
+	PARENT=worldframe;
+	FILENAME=C:\Users\GBrob\Desktop\CADs_and_scans\src\combos\white_plate\white_plate_centered.hsf;
+	COLOR=RGB(0,0,255);
+	HIDESEE=0;
+	OPACITY=1.00;
+	SCALE=0.001000;
+	BACKPLANECULLING=0;
+	MARKERVISIBLE=0;
+	LINEVISIBLE=0;
+	AXIS6=0,0,0,0,0,0;
+	IGES_IMPORT=0,0,0,0,0,0,0;
+	}
+MODEL
+	{
+	NAME=ramp_07-08-23_centered;
+	PARENT=worldframe;
+	FILENAME=C:\Users\GBrob\Desktop\CADs_and_scans\src\combos\ramp\ramp_07-08-23_centered.hsf;
+	COLOR=RGB(0,0,255);
+	HIDESEE=0;
+	OPACITY=1.00;
+	SCALE=0.001000;
+	BACKPLANECULLING=0;
+	MARKERVISIBLE=0;
+	LINEVISIBLE=0;
+	AXIS6=0,0,0,0,0,0;
+	IGES_IMPORT=0,0,0,0,0,0,0;
+	}
+MODEL
+	{
+	NAME=plaster_roller_centered;
+	PARENT=worldframe;
+	FILENAME=C:\Users\GBrob\Desktop\CADs_and_scans\src\combos\plaster_roller\plaster_roller_centered.hsf;
+	COLOR=RGB(0,0,255);
+	HIDESEE=0;
+	OPACITY=1.00;
+	SCALE=0.001000;
+	BACKPLANECULLING=0;
+	MARKERVISIBLE=0;
+	LINEVISIBLE=0;
+	AXIS6=0,0,0,0,0,0;
+	IGES_IMPORT=0,0,0,0,0,0,0;
+	}
+MODEL
+	{
+	NAME=pipe_head_centered;
+	PARENT=worldframe;
+	FILENAME=C:\Users\GBrob\Desktop\CADs_and_scans\src\cones\pipe_head\pipe_head_centered.hsf;
+	COLOR=RGB(0,0,255);
+	HIDESEE=0;
+	OPACITY=1.00;
+	SCALE=0.001000;
+	BACKPLANECULLING=0;
+	MARKERVISIBLE=0;
+	LINEVISIBLE=0;
+	AXIS6=0,0,0,0,0,0;
+	IGES_IMPORT=0,0,0,0,0,0,0;
+	}
+MODEL
+	{
+	NAME=slope_centered;
+	PARENT=worldframe;
+	FILENAME=C:\Users\GBrob\Desktop\CADs_and_scans\src\combos\slope\slope_centered.hsf;
+	COLOR=RGB(0,0,255);
+	HIDESEE=0;
+	OPACITY=1.00;
+	SCALE=0.001000;
+	BACKPLANECULLING=0;
+	MARKERVISIBLE=0;
+	LINEVISIBLE=0;
+	AXIS6=0,0,0,0,0,0;
+	IGES_IMPORT=0,0,0,0,0,0,0;
+	}
+MODEL
+	{
+	NAME=muffler_centered;
+	PARENT=worldframe;
+	FILENAME=C:\Users\GBrob\Desktop\CADs_and_scans\src\combos\muffler\muffler_centered.hsf;
+	COLOR=RGB(0,0,255);
+	HIDESEE=0;
+	OPACITY=1.00;
+	SCALE=0.001000;
+	BACKPLANECULLING=0;
+	MARKERVISIBLE=0;
+	LINEVISIBLE=0;
+	AXIS6=0,0,0,0,0,0;
+	IGES_IMPORT=0,0,0,0,0,0,0;
+	}
+MODEL
+	{
+	NAME=ramp_standing_centered;
+	PARENT=worldframe;
+	FILENAME=C:\Users\GBrob\Desktop\CADs_and_scans\src\combos\ramp\ramp_standing_centered.hsf;
+	COLOR=RGB(0,0,255);
+	HIDESEE=0;
+	OPACITY=1.00;
+	SCALE=0.001000;
+	BACKPLANECULLING=0;
+	MARKERVISIBLE=0;
+	LINEVISIBLE=0;
+	AXIS6=0,0,0,0,0,0;
+	IGES_IMPORT=0,0,0,0,0,0,0;
+	}
+MODEL
+	{
+	NAME=small_pipe_25-07-23_centered;
+	PARENT=worldframe;
+	FILENAME=C:\Users\GBrob\Desktop\CADs_and_scans\src\cylinders\small_pipe\small_pipe_25-07-23_centered.hsf;
+	COLOR=RGB(0,0,255);
+	HIDESEE=0;
+	OPACITY=1.00;
+	SCALE=0.001000;
+	BACKPLANECULLING=0;
+	MARKERVISIBLE=0;
+	LINEVISIBLE=0;
+	AXIS6=0,0,0,0,0,0;
+	IGES_IMPORT=0,0,0,0,0,0,0;
+	}
+MODEL
+	{
+	NAME=long_pipe_26-07-23_centered;
+	PARENT=worldframe;
+	FILENAME=C:\Users\GBrob\Desktop\CADs_and_scans\src\cylinders\long_pipe\long_pipe_26-07-23_centered.hsf;
+	COLOR=RGB(0,0,255);
+	HIDESEE=0;
+	OPACITY=1.00;
+	SCALE=0.001000;
+	BACKPLANECULLING=0;
+	MARKERVISIBLE=0;
+	LINEVISIBLE=0;
+	AXIS6=0,0,0,0,0,0;
+	IGES_IMPORT=0,0,0,0,0,0,0;
+	}
+MODEL
+	{
+	NAME=mataf_small_11-07-23_centered;
+	PARENT=worldframe;
+	FILENAME=C:\Users\GBrob\Desktop\CADs_and_scans\src\cylinders\mataf_small\mataf_small_11-07-23_centered.hsf;
+	COLOR=RGB(0,0,255);
+	HIDESEE=0;
+	OPACITY=1.00;
+	SCALE=0.001000;
+	BACKPLANECULLING=0;
+	MARKERVISIBLE=0;
+	LINEVISIBLE=0;
+	AXIS6=0,0,0,0,0,0;
+	IGES_IMPORT=0,0,0,0,0,0,0;
+	}
+MODEL
+	{
+	NAME=pipe_hz_centered;
+	PARENT=worldframe;
+	FILENAME=C:\Users\GBrob\Desktop\CADs_and_scans\src\cylinders\pipe\pipe_hz_centered.hsf;
+	COLOR=RGB(0,0,255);
+	HIDESEE=0;
+	OPACITY=1.00;
+	SCALE=0.001000;
+	BACKPLANECULLING=0;
+	MARKERVISIBLE=0;
+	LINEVISIBLE=0;
+	AXIS6=0,0,0,0,0,0;
+	IGES_IMPORT=0,0,0,0,0,0,0;
+	}
+MODEL
+	{
+	NAME=long_pipe_hz_centered;
+	PARENT=worldframe;
+	FILENAME=C:\Users\GBrob\Desktop\CADs_and_scans\src\cylinders\long_pipe\long_pipe_hz_centered.hsf;
+	COLOR=RGB(0,0,255);
+	HIDESEE=0;
+	OPACITY=1.00;
+	SCALE=0.001000;
+	BACKPLANECULLING=0;
+	MARKERVISIBLE=0;
+	LINEVISIBLE=0;
+	AXIS6=0,0,0,0,0,0;
+	IGES_IMPORT=0,0,0,0,0,0,0;
+	}
+MODEL
+	{
+	NAME=pipe_vertical_centered;
+	PARENT=worldframe;
+	FILENAME=C:\Users\GBrob\Desktop\CADs_and_scans\src\cylinders\pipe\pipe_vertical_centered.hsf;
+	COLOR=RGB(0,0,255);
+	HIDESEE=0;
+	OPACITY=1.00;
+	SCALE=0.001000;
+	BACKPLANECULLING=0;
+	MARKERVISIBLE=0;
+	LINEVISIBLE=0;
+	AXIS6=0,0,0,0,0,0;
+	IGES_IMPORT=0,0,0,0,0,0,0;
+	}
+MODEL
+	{
+	NAME=pipe_uncentered_centered;
+	PARENT=worldframe;
+	FILENAME=C:\Users\GBrob\Desktop\CADs_and_scans\src\cylinders\pipe\pipe_uncentered_centered.hsf;
+	COLOR=RGB(0,0,255);
+	HIDESEE=0;
+	OPACITY=1.00;
+	SCALE=0.001000;
+	BACKPLANECULLING=0;
+	MARKERVISIBLE=0;
+	LINEVISIBLE=0;
+	AXIS6=0,0,0,0,0,0;
+	IGES_IMPORT=0,0,0,0,0,0,0;
+	}
+MODEL
+	{
+	NAME=half_bracket_25-07-23_centered;
+	PARENT=worldframe;
+	FILENAME=C:\Users\GBrob\Desktop\CADs_and_scans\src\cylinders\half_bracket\half_bracket_25-07-23_centered.hsf;
+	COLOR=RGB(0,0,255);
+	HIDESEE=0;
+	OPACITY=1.00;
+	SCALE=0.001000;
+	BACKPLANECULLING=0;
+	MARKERVISIBLE=0;
+	LINEVISIBLE=0;
+	AXIS6=0,0,0,0,0,0;
+	IGES_IMPORT=0,0,0,0,0,0,0;
+	}
+MODEL
+	{
+	NAME=pipe_junction_centered;
+	PARENT=worldframe;
+	FILENAME=C:\Users\GBrob\Desktop\CADs_and_scans\src\cylinders\pipe_junction\pipe_junction_centered.hsf;
+	COLOR=RGB(0,0,255);
+	HIDESEE=1;
 	OPACITY=1.00;
 	SCALE=0.001000;
 	BACKPLANECULLING=0;
