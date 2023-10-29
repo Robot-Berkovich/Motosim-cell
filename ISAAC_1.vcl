@@ -230,10 +230,10 @@ IOSTAGE
 
 NSIMVIEW
 {
-CAMERAPOSITION=-3.212009,4.650884,3.863078;
-CAMERATARGET=1.478257,-1.613020,0.136821;
-CAMERAUPVECTOR=0.229275,-0.365083,0.902301;
-CAMERAFIELD=2.700806,2.700806;
+CAMERAPOSITION=-0.661050,-3.250698,2.839449;
+CAMERATARGET=1.222006,-0.110811,0.979046;
+CAMERAUPVECTOR=0.201300,0.407143,0.890905;
+CAMERAFIELD=1.533490,1.533490;
 USERVIEW
 	{
 	NO=0
@@ -1130,7 +1130,7 @@ MODEL
 	PARENT=worldframe;
 	FILENAME=C:\Users\GBrob\Desktop\CADs_and_scans\src\combos\muffler\muffler_centered.hsf;
 	COLOR=RGB(0,0,255);
-	HIDESEE=0;
+	HIDESEE=1;
 	OPACITY=1.00;
 	SCALE=0.001000;
 	BACKPLANECULLING=0;
@@ -1280,7 +1280,322 @@ MODEL
 	PARENT=worldframe;
 	FILENAME=C:\Users\GBrob\Desktop\CADs_and_scans\src\cylinders\pipe_junction\pipe_junction_centered.hsf;
 	COLOR=RGB(0,0,255);
-	HIDESEE=1;
+	HIDESEE=0;
+	OPACITY=1.00;
+	SCALE=0.001000;
+	BACKPLANECULLING=0;
+	MARKERVISIBLE=0;
+	LINEVISIBLE=0;
+	AXIS6=0,0,0,0,0,0;
+	IGES_IMPORT=0,0,0,0,0,0,0;
+	}
+MODEL
+	{
+	NAME=shotblast_31-07-23_centered;
+	PARENT=worldframe;
+	FILENAME=C:\Users\GBrob\Desktop\CADs_and_scans\src\cylinders\shotblast\shotblast_31-07-23_centered.hsf;
+	COLOR=RGB(0,0,255);
+	HIDESEE=0;
+	OPACITY=1.00;
+	SCALE=0.001000;
+	BACKPLANECULLING=0;
+	MARKERVISIBLE=0;
+	LINEVISIBLE=0;
+	AXIS6=0,0,0,0,0,0;
+	IGES_IMPORT=0,0,0,0,0,0,0;
+	}
+MODEL
+	{
+	NAME=t_01-08-23_centered;
+	PARENT=worldframe;
+	FILENAME=C:\Users\GBrob\Desktop\CADs_and_scans\src\cylinders\t\t_01-08-23_centered.hsf;
+	COLOR=RGB(0,0,255);
+	HIDESEE=0;
+	OPACITY=1.00;
+	SCALE=0.001000;
+	BACKPLANECULLING=0;
+	MARKERVISIBLE=0;
+	LINEVISIBLE=0;
+	AXIS6=0,0,0,0,0,0;
+	IGES_IMPORT=0,0,0,0,0,0,0;
+	}
+MODEL
+	{
+	NAME=yellow_cover_centered;
+	PARENT=worldframe;
+	FILENAME=C:\Users\GBrob\Desktop\CADs_and_scans\src\combos\yellow_cover\yellow_cover_centered.hsf;
+	COLOR=RGB(0,0,255);
+	HIDESEE=0;
+	OPACITY=1.00;
+	SCALE=0.001000;
+	BACKPLANECULLING=0;
+	MARKERVISIBLE=0;
+	LINEVISIBLE=0;
+	AXIS6=0,0,0,0,0,0;
+	IGES_IMPORT=0,0,0,0,0,0,0;
+	}
+MODEL
+	{
+	NAME=plata_tarpez_centered;
+	PARENT=worldframe;
+	FILENAME=C:\Users\GBrob\Desktop\CADs_and_scans\src\combos\plata_tarpez\plata_tarpez_centered.hsf;
+	COLOR=RGB(0,0,255);
+	HIDESEE=0;
+	OPACITY=1.00;
+	SCALE=0.001000;
+	BACKPLANECULLING=0;
+	MARKERVISIBLE=0;
+	LINEVISIBLE=0;
+	AXIS6=0,0,0,0,0,0;
+	IGES_IMPORT=0,0,0,0,0,0,0;
+	}
+MODEL
+	{
+	NAME=compressor_centered;
+	PARENT=worldframe;
+	FILENAME=C:\Users\GBrob\Desktop\CADs_and_scans\src\combos\compressor\compressor_centered.hsf;
+	COLOR=RGB(0,0,255);
+	HIDESEE=0;
+	OPACITY=1.00;
+	SCALE=0.001000;
+	BACKPLANECULLING=0;
+	MARKERVISIBLE=0;
+	LINEVISIBLE=0;
+	AXIS6=0,0,0,0,0,0;
+	IGES_IMPORT=0,0,0,0,0,0,0;
+	}
+MODEL
+	{
+	NAME=small_pipe_bent_centered;
+	PARENT=worldframe;
+	FILENAME=C:\Users\GBrob\Desktop\CADs_and_scans\src\cylinders\small_pipe_bent\small_pipe_bent_centered.hsf;
+	COLOR=RGB(0,0,255);
+	HIDESEE=0;
+	OPACITY=1.00;
+	SCALE=0.001000;
+	BACKPLANECULLING=0;
+	MARKERVISIBLE=0;
+	LINEVISIBLE=0;
+	AXIS6=0,0,0,0,0,0;
+	IGES_IMPORT=0,0,0,0,0,0,0;
+	}
+MODEL
+	{
+	NAME=pipe_reducer_centered;
+	PARENT=worldframe;
+	FILENAME=C:\Users\GBrob\Desktop\CADs_and_scans\src\cylinders\pipe_reducer\pipe_reducer_centered.hsf;
+	COLOR=RGB(0,0,255);
+	HIDESEE=0;
+	OPACITY=1.00;
+	SCALE=0.001000;
+	BACKPLANECULLING=0;
+	MARKERVISIBLE=0;
+	LINEVISIBLE=0;
+	AXIS6=0,0,0,0,0,0;
+	IGES_IMPORT=0,0,0,0,0,0,0;
+	}
+MODEL
+	{
+	NAME=pipe_screws_centered;
+	PARENT=worldframe;
+	FILENAME=C:\Users\GBrob\Desktop\CADs_and_scans\src\cylinders\pipe_screws\pipe_screws_centered.hsf;
+	COLOR=RGB(0,0,255);
+	HIDESEE=0;
+	OPACITY=1.00;
+	SCALE=0.001000;
+	BACKPLANECULLING=0;
+	MARKERVISIBLE=0;
+	LINEVISIBLE=0;
+	AXIS6=0,0,0,0,0,0;
+	IGES_IMPORT=0,0,0,0,0,0,0;
+	}
+MODEL
+	{
+	NAME=u_profile_centered;
+	PARENT=worldframe;
+	FILENAME=C:\Users\GBrob\Desktop\CADs_and_scans\src\combos\u_profile\u_profile_centered.hsf;
+	COLOR=RGB(0,0,255);
+	HIDESEE=0;
+	OPACITY=1.00;
+	SCALE=0.001000;
+	BACKPLANECULLING=0;
+	MARKERVISIBLE=0;
+	LINEVISIBLE=0;
+	AXIS6=0,0,0,0,0,0;
+	IGES_IMPORT=0,0,0,0,0,0,0;
+	}
+MODEL
+	{
+	NAME=profile_short_centered;
+	PARENT=worldframe;
+	FILENAME=C:\Users\GBrob\Desktop\CADs_and_scans\src\rectangles\profile_short\profile_short_centered.hsf;
+	COLOR=RGB(0,0,255);
+	HIDESEE=0;
+	OPACITY=1.00;
+	SCALE=0.001000;
+	BACKPLANECULLING=0;
+	MARKERVISIBLE=0;
+	LINEVISIBLE=0;
+	AXIS6=0,0,0,0,0,0;
+	IGES_IMPORT=0,0,0,0,0,0,0;
+	}
+MODEL
+	{
+	NAME=H_profile_centered;
+	PARENT=worldframe;
+	FILENAME=C:\Users\GBrob\Desktop\CADs_and_scans\src\combos\H_profile\H_profile_centered.hsf;
+	COLOR=RGB(0,0,255);
+	HIDESEE=0;
+	OPACITY=1.00;
+	SCALE=0.001000;
+	BACKPLANECULLING=0;
+	MARKERVISIBLE=0;
+	LINEVISIBLE=0;
+	AXIS6=0,0,0,0,0,0;
+	IGES_IMPORT=0,0,0,0,0,0,0;
+	}
+MODEL
+	{
+	NAME=small_flange_centered;
+	PARENT=worldframe;
+	FILENAME=C:\Users\GBrob\Desktop\CADs_and_scans\src\combos\small_flange\small_flange_centered.hsf;
+	COLOR=RGB(0,0,255);
+	HIDESEE=0;
+	OPACITY=1.00;
+	SCALE=0.001000;
+	BACKPLANECULLING=0;
+	MARKERVISIBLE=0;
+	LINEVISIBLE=0;
+	AXIS6=0,0,0,0,0,0;
+	IGES_IMPORT=0,0,0,0,0,0,0;
+	}
+MODEL
+	{
+	NAME=hydraulic_centered;
+	PARENT=worldframe;
+	FILENAME=C:\Users\GBrob\Desktop\CADs_and_scans\src\rectangles\hydraulic\hydraulic_centered.hsf;
+	COLOR=RGB(0,0,255);
+	HIDESEE=0;
+	OPACITY=1.00;
+	SCALE=0.001000;
+	BACKPLANECULLING=0;
+	MARKERVISIBLE=0;
+	LINEVISIBLE=0;
+	AXIS6=0,0,0,0,0,0;
+	IGES_IMPORT=0,0,0,0,0,0,0;
+	}
+MODEL
+	{
+	NAME=small_barrel_centered;
+	PARENT=worldframe;
+	FILENAME=C:\Users\GBrob\Desktop\CADs_and_scans\src\combos\small_barrel\small_barrel_centered.hsf;
+	COLOR=RGB(0,0,255);
+	HIDESEE=0;
+	OPACITY=1.00;
+	SCALE=0.001000;
+	BACKPLANECULLING=0;
+	MARKERVISIBLE=0;
+	LINEVISIBLE=0;
+	AXIS6=0,0,0,0,0,0;
+	IGES_IMPORT=0,0,0,0,0,0,0;
+	}
+MODEL
+	{
+	NAME=hand_blower_centered;
+	PARENT=worldframe;
+	FILENAME=C:\Users\GBrob\Desktop\CADs_and_scans\src\combos\hand_blower\hand_blower_centered.hsf;
+	COLOR=RGB(0,0,255);
+	HIDESEE=0;
+	OPACITY=1.00;
+	SCALE=0.001000;
+	BACKPLANECULLING=0;
+	MARKERVISIBLE=0;
+	LINEVISIBLE=0;
+	AXIS6=0,0,0,0,0,0;
+	IGES_IMPORT=0,0,0,0,0,0,0;
+	}
+MODEL
+	{
+	NAME=pneumatic_pod_centered;
+	PARENT=worldframe;
+	FILENAME=C:\Users\GBrob\Desktop\CADs_and_scans\src\cylinders\pneumatic_pod\pneumatic_pod_centered.hsf;
+	COLOR=RGB(0,0,255);
+	HIDESEE=0;
+	OPACITY=1.00;
+	SCALE=0.001000;
+	BACKPLANECULLING=0;
+	MARKERVISIBLE=0;
+	LINEVISIBLE=0;
+	AXIS6=0,0,0,0,0,0;
+	IGES_IMPORT=0,0,0,0,0,0,0;
+	}
+MODEL
+	{
+	NAME=clamp_centered;
+	PARENT=worldframe;
+	FILENAME=C:\Users\GBrob\Desktop\CADs_and_scans\src\combos\clamp\clamp_centered.hsf;
+	COLOR=RGB(0,0,255);
+	HIDESEE=0;
+	OPACITY=1.00;
+	SCALE=0.001000;
+	BACKPLANECULLING=0;
+	MARKERVISIBLE=0;
+	LINEVISIBLE=0;
+	AXIS6=0,0,0,0,0,0;
+	IGES_IMPORT=0,0,0,0,0,0,0;
+	}
+MODEL
+	{
+	NAME=valve_centered;
+	PARENT=worldframe;
+	FILENAME=C:\Users\GBrob\Desktop\CADs_and_scans\src\combos\valve\valve_centered.hsf;
+	COLOR=RGB(0,0,255);
+	HIDESEE=0;
+	OPACITY=1.00;
+	SCALE=0.001000;
+	BACKPLANECULLING=0;
+	MARKERVISIBLE=0;
+	LINEVISIBLE=0;
+	AXIS6=0,0,0,0,0,0;
+	IGES_IMPORT=0,0,0,0,0,0,0;
+	}
+MODEL
+	{
+	NAME=tank_top_centered;
+	PARENT=worldframe;
+	FILENAME=C:\Users\GBrob\Desktop\CADs_and_scans\src\cylinders\tank_top\tank_top_centered.hsf;
+	COLOR=RGB(0,0,255);
+	HIDESEE=0;
+	OPACITY=1.00;
+	SCALE=0.001000;
+	BACKPLANECULLING=0;
+	MARKERVISIBLE=0;
+	LINEVISIBLE=0;
+	AXIS6=0,0,0,0,0,0;
+	IGES_IMPORT=0,0,0,0,0,0,0;
+	}
+MODEL
+	{
+	NAME=engine_centered;
+	PARENT=worldframe;
+	FILENAME=C:\Users\GBrob\Desktop\CADs_and_scans\src\combos\engine\engine_centered.hsf;
+	COLOR=RGB(0,0,255);
+	HIDESEE=0;
+	OPACITY=1.00;
+	SCALE=0.001000;
+	BACKPLANECULLING=0;
+	MARKERVISIBLE=0;
+	LINEVISIBLE=0;
+	AXIS6=0,0,0,0,0,0;
+	IGES_IMPORT=0,0,0,0,0,0,0;
+	}
+MODEL
+	{
+	NAME=pipe_bracket_centered;
+	PARENT=worldframe;
+	FILENAME=C:\Users\GBrob\Desktop\CADs_and_scans\src\combos\pipe_bracket\pipe_bracket_centered.hsf;
+	COLOR=RGB(0,0,255);
+	HIDESEE=0;
 	OPACITY=1.00;
 	SCALE=0.001000;
 	BACKPLANECULLING=0;
