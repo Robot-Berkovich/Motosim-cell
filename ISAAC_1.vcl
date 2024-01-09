@@ -230,10 +230,10 @@ IOSTAGE
 
 NSIMVIEW
 {
-CAMERAPOSITION=-0.661050,-3.250698,2.839449;
-CAMERATARGET=1.222006,-0.110811,0.979046;
-CAMERAUPVECTOR=0.201300,0.407143,0.890905;
-CAMERAFIELD=1.533490,1.533490;
+CAMERAPOSITION=-1.295144,5.825117,5.150224;
+CAMERATARGET=0.774388,0.136984,1.187880;
+CAMERAUPVECTOR=0.184818,-0.515582,0.836672;
+CAMERAFIELD=2.744962,2.744962;
 USERVIEW
 	{
 	NO=0
@@ -1130,7 +1130,7 @@ MODEL
 	PARENT=worldframe;
 	FILENAME=C:\Users\GBrob\Desktop\CADs_and_scans\src\combos\muffler\muffler_centered.hsf;
 	COLOR=RGB(0,0,255);
-	HIDESEE=1;
+	HIDESEE=0;
 	OPACITY=1.00;
 	SCALE=0.001000;
 	BACKPLANECULLING=0;
@@ -1594,6 +1594,51 @@ MODEL
 	NAME=pipe_bracket_centered;
 	PARENT=worldframe;
 	FILENAME=C:\Users\GBrob\Desktop\CADs_and_scans\src\combos\pipe_bracket\pipe_bracket_centered.hsf;
+	COLOR=RGB(0,0,255);
+	HIDESEE=0;
+	OPACITY=1.00;
+	SCALE=0.001000;
+	BACKPLANECULLING=0;
+	MARKERVISIBLE=0;
+	LINEVISIBLE=0;
+	AXIS6=0,0,0,0,0,0;
+	IGES_IMPORT=0,0,0,0,0,0,0;
+	}
+MODEL
+	{
+	NAME=demo_21-12-2023_centered;
+	PARENT=worldframe;
+	FILENAME=C:\Users\GBrob\Desktop\CADs_and_scans\src\combos\demo\demo_21-12-2023_centered.hsf;
+	COLOR=RGB(0,0,255);
+	HIDESEE=0;
+	OPACITY=1.00;
+	SCALE=0.001000;
+	BACKPLANECULLING=0;
+	MARKERVISIBLE=0;
+	LINEVISIBLE=0;
+	AXIS6=0,0,0,0,0,0;
+	IGES_IMPORT=0,0,0,0,0,0,0;
+	}
+MODEL
+	{
+	NAME=trapez_21-12-2023_centered;
+	PARENT=worldframe;
+	FILENAME=C:\Users\GBrob\Desktop\CADs_and_scans\src\rectangles\trapez\trapez_21-12-2023_centered.hsf;
+	COLOR=RGB(0,0,255);
+	HIDESEE=0;
+	OPACITY=1.00;
+	SCALE=0.001000;
+	BACKPLANECULLING=0;
+	MARKERVISIBLE=0;
+	LINEVISIBLE=0;
+	AXIS6=0,0,0,0,0,0;
+	IGES_IMPORT=0,0,0,0,0,0,0;
+	}
+MODEL
+	{
+	NAME=trapez2_21-12-2023_centered;
+	PARENT=worldframe;
+	FILENAME=C:\Users\GBrob\Desktop\CADs_and_scans\src\rectangles\trapez\trapez2_21-12-2023_centered.hsf;
 	COLOR=RGB(0,0,255);
 	HIDESEE=0;
 	OPACITY=1.00;
